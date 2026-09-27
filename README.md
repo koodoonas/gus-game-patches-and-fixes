@@ -24,7 +24,7 @@ The focus is on:
 | Game | GUS support | Repository | Download |
 |---|---|---|---|
 | **Prehistorik 2** | GUS music and sound effects | [prehistorik2-gus](https://github.com/koodoonas/prehistorik2-gus) | [Latest release](https://github.com/koodoonas/prehistorik2-gus/releases/latest) |
-| **Disney's Aladdin** | GUS audio patch | [aladdin-gus](https://github.com/koodoonas/aladdin-gus) | [Latest release](https://github.com/koodoonas/aladdin-gus/releases/latest) |
+| **Disney's Aladdin** | GUS native support restored | [aladdin-gus](https://github.com/koodoonas/aladdin-gus) | [Latest release](https://github.com/koodoonas/aladdin-gus/releases/latest) |
 | **Another World / Out of This World** | GUS audio with sample preloading | [another-world-gus](https://github.com/koodoonas/another-world-gus) | [Latest release](https://github.com/koodoonas/another-world-gus/releases/latest) |
 | **James Pond 2: Codename RoboCod** | GUS music and sound effects | [james-pond-2-gus](https://github.com/koodoonas/james-pond-2-gus) | [Latest release](https://github.com/koodoonas/james-pond-2-gus/releases/latest) |
 | **Cannon Fodder 2** | GUS music and sound effects | [cannon-fodder-2-gus](https://github.com/koodoonas/cannon-fodder-2-gus) | [Latest release](https://github.com/koodoonas/cannon-fodder-2-gus/releases/latest) |
@@ -135,6 +135,9 @@ Development, source code, documentation, issues, and releases remain in the indi
 - [Another World / Out of This World GUS](https://github.com/koodoonas/another-world-gus)
 - [James Pond 2 GUS](https://github.com/koodoonas/james-pond-2-gus)
 - [Cannon Fodder 2 GUS](https://github.com/koodoonas/cannon-fodder-2-gus)
+
+## Notable patches by others:
+- [Xenon II — selectable Sound Blaster / Gravis UltraSound audio](https://github.com/pgeo101/xenon2-soundblaster)
 
 ## AI usage disclosure
 
