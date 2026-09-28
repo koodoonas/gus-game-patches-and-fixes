@@ -28,6 +28,7 @@ The focus is on:
 | **Another World / Out of This World** | GUS audio with sample preloading | [another-world-gus](https://github.com/koodoonas/another-world-gus) | [Latest release](https://github.com/koodoonas/another-world-gus/releases/latest) |
 | **James Pond 2: Codename RoboCod** | GUS music and sound effects | [james-pond-2-gus](https://github.com/koodoonas/james-pond-2-gus) | [Latest release](https://github.com/koodoonas/james-pond-2-gus/releases/latest) |
 | **Cannon Fodder 2** | GUS music and sound effects | [cannon-fodder-2-gus](https://github.com/koodoonas/cannon-fodder-2-gus) | [Latest release](https://github.com/koodoonas/cannon-fodder-2-gus/releases/latest) |
+| **Micro Machines 2** | GUS native HW mixing restored | (https://github.com/koodoonas/micro-machines-2-gus) | [Latest release](https://github.com/koodoonas/micro-machines-2-gus/releases/latest) |
 
 More patches will be added as they become usable and are tested on real hardware.
 
@@ -135,6 +136,7 @@ Development, source code, documentation, issues, and releases remain in the indi
 - [Another World / Out of This World GUS](https://github.com/koodoonas/another-world-gus)
 - [James Pond 2 GUS](https://github.com/koodoonas/james-pond-2-gus)
 - [Cannon Fodder 2 GUS](https://github.com/koodoonas/cannon-fodder-2-gus)
+- [Micro Machines 2](https://github.com/koodoonas/micro-machines-2-gus)
 
 ## Notable patches by others:
 - [Xenon II — selectable Sound Blaster / Gravis UltraSound audio](https://github.com/pgeo101/xenon2-soundblaster)
