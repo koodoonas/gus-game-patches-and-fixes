@@ -28,7 +28,7 @@ The focus is on:
 | **Another World / Out of This World** | GUS audio with sample preloading | [another-world-gus](https://github.com/koodoonas/another-world-gus) | [Latest release](https://github.com/koodoonas/another-world-gus/releases/latest) |
 | **James Pond 2: Codename RoboCod** | GUS music and sound effects | [james-pond-2-gus](https://github.com/koodoonas/james-pond-2-gus) | [Latest release](https://github.com/koodoonas/james-pond-2-gus/releases/latest) |
 | **Cannon Fodder 2** | GUS music and sound effects | [cannon-fodder-2-gus](https://github.com/koodoonas/cannon-fodder-2-gus) | [Latest release](https://github.com/koodoonas/cannon-fodder-2-gus/releases/latest) |
-| **Micro Machines 2** | GUS native HW mixing restored | (https://github.com/koodoonas/micro-machines-2-gus) | [Latest release](https://github.com/koodoonas/micro-machines-2-gus/releases/latest) |
+| **Micro Machines 2** | GUS native HW mixing restored | [micro-machines-2-gus](https://github.com/koodoonas/micro-machines-2-gus) | [Latest release](https://github.com/koodoonas/micro-machines-2-gus/releases/latest) |
 
 More patches will be added as they become usable and are tested on real hardware.
 
