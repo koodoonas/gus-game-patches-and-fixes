@@ -30,6 +30,7 @@ The focus is on:
 | **Cannon Fodder 2** | GUS music and sound effects | [cannon-fodder-2-gus](https://github.com/koodoonas/cannon-fodder-2-gus) | [Latest release](https://github.com/koodoonas/cannon-fodder-2-gus/releases/latest) |
 | **Micro Machines 2** | GUS native HW mixing restored | [micro-machines-2-gus](https://github.com/koodoonas/micro-machines-2-gus) | [Latest release](https://github.com/koodoonas/micro-machines-2-gus/releases/latest) |
 | **Blues Brothers 2** | GUS music and sound effects | [blues-brothers-2-gus](https://github.com/koodoonas/blues-brothers-2-gus) | [Latest release](https://github.com/koodoonas/blues-brothers-2-gus/releases/latest) |
+| **Alien Carnage (Halloween Harry)** | GUS music and sound effects | [alien-carnage-gus](https://github.com/koodoonas/alien-carnage-gus) | [Latest release](https://github.com/koodoonas/alien-carnage-gus/releases/latest) |
 
 More patches will be added as they become usable and are tested on real hardware.
 
@@ -139,6 +140,7 @@ Development, source code, documentation, issues, and releases remain in the indi
 - [Cannon Fodder 2 GUS](https://github.com/koodoonas/cannon-fodder-2-gus)
 - [Micro Machines 2](https://github.com/koodoonas/micro-machines-2-gus)
 - [Blues Brothers 2](https://github.com/koodoonas/blues-brothers-2-gus)
+- [Alien Carnage (Halloween Harry)](https://github.com/koodoonas/alien-carnage-gus)
 
 ## Notable patches by others:
 - [Xenon II — selectable Sound Blaster / Gravis UltraSound audio](https://github.com/pgeo101/xenon2-soundblaster)
